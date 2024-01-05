@@ -13,7 +13,7 @@ else {
     if (pathname.indexOf(prefix) === 0) {
         var lang = navigator.language || navigator.userLanguage;
         lang = lang.indexOf('zh') > -1 ? 'zh' : 'en';
-        pathname = 'https://echarts.apache.org/v4/examples/examples/' + lang + pathname.substr(prefix.length);
+        pathname = '/v4/examples/examples/' + lang + pathname.substr(prefix.length);
         location.href = pathname + search;
     }
     else {

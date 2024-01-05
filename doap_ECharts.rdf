@@ -21,17 +21,17 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 -->
-  <Project rdf:about="https://echarts.apache.org">
+  <Project rdf:about="https://echarts.w3h5.com">
     <created>2021-01-26</created>
     <license rdf:resource="https://spdx.org/licenses/Apache-2.0" />
     <name>Apache ECharts</name>
-    <homepage rdf:resource="https://echarts.apache.org" />
-    <asfext:pmc rdf:resource="https://echarts.apache.org" />
+    <homepage rdf:resource="https://echarts.w3h5.com" />
+    <asfext:pmc rdf:resource="https://echarts.w3h5.com" />
     <shortdesc>A powerful, interactive charting and visualization library for browser</shortdesc>
     <description>Apache ECharts is a free, powerful charting and visualization library offering easy ways to add intuitive, interactive, and highly customizable charts to your commercial products. It is written in pure JavaScript and based on zrender, which is a whole new lightweight canvas library.</description>
     <bug-database rdf:resource="https://github.com/apache/echarts/issues" />
-    <mailing-list rdf:resource="https://echarts.apache.org/maillist.html" />
-    <download-page rdf:resource="https://echarts.apache.org/download.html" />
+    <mailing-list rdf:resource="/maillist.html" />
+    <download-page rdf:resource="/download.html" />
     <programming-language>JavaScript</programming-language>
     <programming-language>TypeScript</programming-language>
     <category rdf:resource="https://projects.apache.org/category/library" />
@@ -52,7 +52,7 @@
     <maintainer>
       <foaf:Person>
         <foaf:name>Apache ECharts PMC</foaf:name>
-          <foaf:mbox rdf:resource="mailto:dev@echarts.apache.org" />
+          <foaf:mbox rdf:resource="mailto:dev@echarts.w3h5.com" />
       </foaf:Person>
     </maintainer>
   </Project>

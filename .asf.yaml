@@ -1,7 +1,7 @@
 publish:
   whoami: asf-site
 github:
-  homepage: https://echarts.apache.org
+  homepage: https://echarts.w3h5.com
   labels:
     - echarts
     - apache

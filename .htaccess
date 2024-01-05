@@ -8,7 +8,7 @@ RedirectMatch 404 /\.github
 RedirectMatch 404 /\.asf\.yaml
 
 <IfModule mod_headers.c>
-    Header set Access-Control-Allow-Origin "https://echarts.apache.org"
+    Header set Access-Control-Allow-Origin "https://echarts.w3h5.com"
     Header set Access-Control-Allow-Methods "*"
     Header set Access-Control-Allow-Headers "*"
     Header set X-XSS-Protection "1; mode=block"
