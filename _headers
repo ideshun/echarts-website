@@ -1,0 +1,39 @@
+/*
+  Access-Control-Allow-Origin: https://echarts.w3h5.com
+  Access-Control-Allow-Methods: *
+  Access-Control-Allow-Headers: *
+  X-XSS-Protection: 1; mode=block
+  X-Frame-Options: sameorigin
+  X-Content-Type-Options: nosniff
+
+*.html
+  Cache-Control: public, max-age=3600
+  Vary: Accept-Language
+
+*.png
+  Cache-Control: public, max-age=3600
+
+*.jpg
+  Cache-Control: public, max-age=3600
+
+*.jpeg
+  Cache-Control: public, max-age=3600
+
+*.css
+  Cache-Control: public, max-age=3600
+
+*.js
+  Cache-Control: public, max-age=3600
+
+*.json
+  Cache-Control: public, max-age=3600
+
+/index.html
+  Cache-Control: no-store, no-cache, must-revalidate
+  Expires: Thu, 01 Dec 1994 16:00:00 GMT
+
+/en/index.html
+  Cache-Control: no-store, no-cache, must-revalidate
+
+/zh/index.html
+  Cache-Control: no-store, no-cache, must-revalidate

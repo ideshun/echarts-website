@@ -3,7 +3,7 @@ title: ECharts-GL Hello World
 category: globe
 titleCN: ECharts GL 入门
 difficulty: 0
-scripts: 'https://echarts.apache.org/zh/js/vendors/echarts-gl/dist/echarts-gl.min.js'
+scripts: '/zh/js/vendors/echarts-gl/dist/echarts-gl.min.js'
 videoStart: 2000
 videoEnd: 6000
 */

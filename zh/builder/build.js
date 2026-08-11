@@ -15,7 +15,7 @@ define(function (require) {
 
     var version = BUILD_CONFIG.version || 'latest';
     var isVersion5 = version === 'latest' || +version[0] >= 5;
-    var jsDelivrBase = 'https://echarts.apache.org/en/js/vendors';
+    var jsDelivrBase = '/en/js/vendors';
 
     var urlArgs = '__v__=' + (+new Date());
 
